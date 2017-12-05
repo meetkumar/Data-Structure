@@ -1,5 +1,5 @@
-package BinarySearchTree;
+package Array;
 
 public class findFirstAndLastoccurence {
-
+	
 }
